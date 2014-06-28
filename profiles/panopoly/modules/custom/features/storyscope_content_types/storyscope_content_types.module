@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Storyscope Content Types feature.
+ */
+
+include_once 'storyscope_content_types.features.inc';

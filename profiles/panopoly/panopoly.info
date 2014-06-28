@@ -49,6 +49,15 @@ dependencies[] = devel
 dependencies[] = uuid
 dependencies[] = apps
 
+; Storyscope Required - Contrib Dev
+dependencies[] = field_reference
+
+; Storyscope Required - Contrib Patch
+dependencies[] = jquery_freebase
+
+; Storyscope Feature - Content Types
+dependencies[] = storyscope_content_types
+
 ; Information added by Drupal.org packaging script on 2014-05-22
 version = "7.x-1.6"
 core = "7.x"
